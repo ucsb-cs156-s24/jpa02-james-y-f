@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-s24/jpa02-james-y-f
 
-Deployed at: http://jpa02-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: http://jpa02-james-y-f.dokku-xx.cs.ucsb.edu
 
 # About this repo
 
