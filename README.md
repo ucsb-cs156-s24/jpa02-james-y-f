@@ -1,6 +1,6 @@
 # jpa02-james-y-f
 
-Repo: https://github.com/ucsb-cs156-s24/jpa02-james-y-f.git
+Repo: https://github.com/ucsb-cs156-s24/jpa02-james-y-f
 
 Deployed at: http://jpa02-james-y-f.dokku-07.cs.ucsb.edu
 
